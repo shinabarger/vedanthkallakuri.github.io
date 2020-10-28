@@ -1,0 +1,205 @@
+@charset "ISO-8859-1";
+
+*{
+	margin: 0;
+	padding: 0;	
+}
+
+body {
+	background-color: #ffffff;
+}
+
+.wrapper {
+	margin: 0 auto 0 60px;
+	width: 1000px;
+
+}
+
+.imagestyle1 { 
+	position: relative; 
+	top: -140px;
+	left: 1000px;
+	}
+	
+.imagestyle2 {
+	position:relative;
+	top: -20px;
+	left:510px;
+}	
+
+
+
+.kenichiimg{
+	position: relative;
+	top: 0px;
+	left: 200px;
+}
+
+.kenichiheading {
+	position: relative;
+	top: 0px;	
+	left: 200px;
+	font-family: tahoma;
+	
+}
+
+
+.jessieimg{
+	position: relative;
+	top: 100px;
+	left: 200px;
+}
+
+.jessieheading {
+	position: relative;
+	top: 100px;
+	left: 200px;
+	font-family: tahoma;
+}
+
+.angelaimg{
+	position: relative;
+	top: 200px;
+	left: 200px;
+}
+
+.angelaheading {
+	position: relative;
+	top: 200px;
+	left: 200px;
+	font-family: tahoma;
+}
+
+
+
+.textsyle1 {
+	text-align: center;
+	position: relative;
+	left: 5px;
+	top:-50px;
+	font-family: tahoma;
+	
+}
+
+.headingstyle1 {
+	position: relative;
+	top: -300px;
+	text-align: center;
+	font-family: tahoma;
+}
+
+.teamheading {
+	position: relative;
+	top: -50px;
+	text-align: center; 
+	font-family: tahoma; 
+}
+
+.memberheading {
+	position: relative;
+	top: -50px;
+	text-align: center; 
+	font-family: tahoma; 
+}
+
+.membershiptext1 {
+	text-align: center;
+	position: relative;
+	left: ;
+	top: ;
+	font-family: tahoma;	
+}
+
+.membershiptext2 {
+	text-align: justify;
+	position: relative;
+	left: ;
+	top: ;
+	font-family: tahoma;
+}
+
+.membershiplink{
+	text-align: center;
+	position: relative;
+	top: -30px;
+	font-family: tahoma;
+	font-size: 40px;
+	text-decoration: none;
+}
+
+.textarea1 {
+	position: relative;
+	top: -30px;
+	left: 420px;
+	
+}
+
+.suggestionheading {
+	text-align: center;
+	position: relative;
+	top: -100px;
+	font-family: tahoma;
+	}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+} 
+footer {
+	
+text-decoration: none;
+  text-align: center;
+  padding: 3px;
+  background-color: #abbbdb;
+  color: black;
+  font-family: tahoma;
+}
+
+video {
+	position: relative;
+	left: 100px;
+	
+
+}
+nav {
+	width: 100%;
+	height: 100px;
+	background-color: #abbbdb;
+	font-family: tahoma;
+	font-weight: bold;
+	
+}
+
+ul {
+	margin-left: 0px;
+	
+}
+
+ul li {
+
+	list-style: none;
+	display: inline-block;
+	float: left;
+	line-height: 100px;
+	
+}
+
+ul li a{
+	display: block;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 0 30px;
+	color: #ffffff;
+	
+}
